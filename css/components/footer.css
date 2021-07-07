@@ -1,0 +1,29 @@
+.icons {
+  width: 400px;
+}
+.icons a {
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.icons ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.icons p {
+  color:#6B6C6C;
+}
+
+footer {
+  background-color: #2c2b2b;
+  text-align: center;
+  padding: 55px 0;
+  display: flex;
+  justify-content: center;
+}
+
+footer .fas {
+  color: #BF0F12;
+}
